@@ -1,0 +1,11 @@
+portfolio/
+│── index.html
+│── sobre.html
+│── projetos.html
+│── contato.html
+│── css/
+│   └── style.css
+│── js/
+│   └── script.js
+│── images/
+│   └── avatar.jpg (imagem portfolio)
